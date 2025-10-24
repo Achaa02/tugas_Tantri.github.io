@@ -1,6 +1,6 @@
 /* ===== Gaya Umum ===== */
 header {
-  background: #3399ff;
+  background: rgba(255, 255, 255, 0.5);
   color: white;
   text-align: center;
   padding: 30px;
@@ -224,5 +224,6 @@ footer {
     align-items: center;
   }
 }
+
 
 
